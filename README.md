@@ -9,6 +9,7 @@
 
 
 ### O que foi trabalhado nesse módulo:
+<p>ReactJS</p>
 <p>NextJS</p>
 <p>Typescript</p>
 <p>Stitches</p>
